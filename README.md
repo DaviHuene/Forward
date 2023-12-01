@@ -12,26 +12,28 @@ Bem-vindo ao nosso Projeto de Orientação Profissional! Este é um site interat
 - **Jasmine** (para testes)
 
 ## Funcionalidades 🌐
-![inicio](https://github.com/DaviHuene/Forward/assets/134159546/f1db0447-cf1d-4716-9328-0c1d34287306)
+
+![inicio](https://github.com/DaviHuene/Forward/assets/134159546/c967b2e0-edd0-44c5-8863-089d5f8b9ac9)
 
 
 ### Teste Vocacional 🎓
 Descubra suas habilidades e interesses através de um teste vocacional interativo. Responda algumas perguntas e receba sugestões de carreiras alinhadas ao seu perfil.
 
-![Opera Instantâneo_2023-11-30_181135_forwardd netlify app](https://github.com/DaviHuene/Forward/assets/134159546/2e731b97-bbe2-434b-9e07-267d569417e6)
-![Opera Instantâneo_2023-11-30_181154_forwardd netlify app](https://github.com/DaviHuene/Forward/assets/134159546/81a50c8b-99b5-4410-9020-a5ab20ed4857)
+![Opera Instantâneo_2023-11-30_181135_forwardd netlify app](https://github.com/DaviHuene/Forward/assets/134159546/93138d64-927a-4bfc-8a88-cd87312cc1e6)
+![Opera Instantâneo_2023-11-30_181154_forwardd netlify app](https://github.com/DaviHuene/Forward/assets/134159546/80b8aa35-b99b-4925-96e2-dd91f8096c8d)
 
 ### Montagem de Currículo 📄
 Encontre dicas e orientações especializadas para criar um currículo impactante que destaque suas habilidades e experiências.
 
-![modelos](https://github.com/DaviHuene/Forward/assets/134159546/d1d9f439-ff53-417e-9590-fd4a415e0da6)
+![modelos](https://github.com/DaviHuene/Forward/assets/134159546/3b88a7a0-9d4f-4614-ac4c-0d06d11f1486)
 
 
 ### Escolha de Área 🚀
 Explore diferentes áreas profissionais e receba informações detalhadas para tomar decisões informadas sobre sua carreira.
 
-![aprimoramento](https://github.com/DaviHuene/Forward/assets/134159546/d3fe85e1-c667-4beb-b7fa-8a77dbd18b85)
-![Opera Instantâneo_2023-11-30_181226_forwardd netlify app](https://github.com/DaviHuene/Forward/assets/134159546/7e2448ee-c14f-4b03-b2a9-1f815a4226f6)
+![aprimoramento](https://github.com/DaviHuene/Forward/assets/134159546/5f55ef69-d3b1-4a14-b694-7d0fc3b302e1)
+![Opera Instantâneo_2023-11-30_181226_forwardd netlify app](https://github.com/DaviHuene/Forward/assets/134159546/5eb9966c-8642-46af-a434-21dc6baa1e4e)
+
 
 ### Dicas e Orientações 🚀
 Descubra conselhos práticos e informações úteis para guiar você em sua jornada profissional.
@@ -39,5 +41,6 @@ Descubra conselhos práticos e informações úteis para guiar você em sua jorn
 ### Página de Contato 📬
 Precisa de ajuda ou quer compartilhar feedback? Não hesite em nos contatar. Estamos aqui para ajudar!
 
-![contato](https://github.com/DaviHuene/Forward/assets/134159546/dc88b357-db5b-4bf6-b3f4-1ae6dc73d55f)
+![contato](https://github.com/DaviHuene/Forward/assets/134159546/69dd7b6a-7cae-40aa-85ce-a2dafeb8ce60)
+
 

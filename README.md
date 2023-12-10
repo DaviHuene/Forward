@@ -1,7 +1,7 @@
 # Projeto de Orientação Profissional 🚀
  Link: https://forwardd.netlify.app
 
-Bem-vindo ao nosso Projeto de Orientação Profissional! Este é um site interativo criado para ajudar jovens no final do ensino medio em sua jornada profissional, oferecendo recursos valiosos para orientação vocacional, montagem de currículo, escolha de área e dicas úteis.
+Bem-vindo ao meu Projeto de Orientação Profissional! Este é um site interativo criado para ajudar jovens no final do ensino medio em sua jornada profissional, oferecendo recursos valiosos para orientação vocacional, montagem de currículo, escolha de área e dicas úteis.
 
 ## Tecnologias Utilizadas 🛠️
 
